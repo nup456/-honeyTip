@@ -2,7 +2,9 @@
 
 
 *유니티 텍스트 타이퍼 코드
+
 https://github.com/redbluegames/unity-text-typer
+
 *유니티 선형이동 코드
 https://github.com/geniikw/JustCodePlz/tree/master/LinearMove
 *베지어곡선 알고리즘
